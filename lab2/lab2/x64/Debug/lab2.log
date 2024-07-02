@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\HP\Desktop\сесія 2\oplab2-bohdanvolosheniuk1\lab2\lab2\lab2.cpp(21,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\Desktop\сесія 2\oplab2-bohdanvolosheniuk1\lab2\lab2\lab2.cpp(45,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  lab2.vcxproj -> C:\Users\HP\Desktop\сесія 2\oplab2-bohdanvolosheniuk1\lab2\x64\Debug\lab2.exe

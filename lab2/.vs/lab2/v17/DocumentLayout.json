@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\\u0441\u0435\u0441\u0456\u044F 2\\oplab2-bohdanvolosheniuk1\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEA0A32-F091-4A9E-A458-912A6B3C98CD}|lab2\\lab2.vcxproj|C:\\Users\\HP\\Desktop\\\u0441\u0435\u0441\u0456\u044F 2\\oplab2-bohdanvolosheniuk1\\lab2\\lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CEA0A32-F091-4A9E-A458-912A6B3C98CD}|lab2\\lab2.vcxproj|solutionrelative:lab2\\lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab2.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\\u0441\u0435\u0441\u0456\u044F 2\\oplab2-bohdanvolosheniuk1\\lab2\\lab2\\lab2.cpp",
+              "RelativeDocumentMoniker": "lab2\\lab2.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\\u0441\u0435\u0441\u0456\u044F 2\\oplab2-bohdanvolosheniuk1\\lab2\\lab2\\lab2.cpp",
+              "RelativeToolTip": "lab2\\lab2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T14:19:55.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
